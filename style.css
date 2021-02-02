@@ -1,0 +1,26 @@
+.morbius {
+  border: solid 5px gray;
+  border-radius: 10px 10px 10px 10px;
+  padding: 5px 5px 5px 5px;
+  height: 500px;
+  width: 400px;
+padding: 0px 0px 200px 0px;
+margin: 0px;
+}
+.morbius p , h1 {
+  text-align: center;
+  font-family: cursive;
+}
+.morbius a {
+  text-decoration: none;
+  border: solid 2px red;
+  color: black;
+  background-color: #FF3364;
+  text-align: center;
+  border-radius: 4px;
+  font-family: fantasy;
+}
+.morbius a:hover {
+  color: pink;
+  background-color: #FF184F;
+}
