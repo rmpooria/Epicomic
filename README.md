@@ -1,2 +1,0 @@
-# Epicomic
-comic website
